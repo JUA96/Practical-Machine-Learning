@@ -1,1 +1,3 @@
-# Practical_Machine_Learning_Repo
+# Practical_Machine_Learning
+
+First Machine Learning Project in R
